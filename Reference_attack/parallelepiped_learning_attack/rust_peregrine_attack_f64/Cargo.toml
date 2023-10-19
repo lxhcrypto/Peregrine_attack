@@ -1,0 +1,17 @@
+[package]
+name = "Rust_Peregrine_Attack"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num-complex = "0.4"
+rustfft = "6.1.0"
+rand = "*"
+rand_distr = "0.4.3"
+rayon = "1.5"
+libm = "0.2"
+nalgebra = "0.25.0"
+# time = "*"
+# rug = "1.9.0"
